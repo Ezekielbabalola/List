@@ -1,0 +1,19 @@
+#H{
+    list-style: upper-roman;
+}
+
+.A{
+    list-style: upper-alpha;
+}
+
+#B{
+    list-style: upper-alpha;
+}
+
+#ST{
+    list-style: upper-alpha;
+}
+
+#NO{ 
+    list-style-type: decimal;
+}
